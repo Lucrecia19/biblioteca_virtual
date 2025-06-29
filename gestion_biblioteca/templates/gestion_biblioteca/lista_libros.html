@@ -1,0 +1,7 @@
+<h1>Lista de Libros</h1>
+<ul>
+    {% for libro in libros %}
+    <li><strong>{{ libro.titulo }}</strong> - {{libro.genero }} ({{libro.autor.nombre_completo}})</li>
+    {% empty %}
+    <li>No hay libros disponibles.</li>
+</ul>
