@@ -1,12 +1,12 @@
-# Blibioteca Virtual
-Este es un proycto de práctica realizado con Django como parte del curso de Python Flex de CoderHouse. Se trata de una blibioteca virtual que permite gestionar autores, libros, lectores y préstamos.
+# Bilibioteca Virtual
+Este es un proyecto de práctica realizado con Django como parte del curso de Python Flex de CoderHouse. Se trata de una biblioteca virtual que permite gestionar autores, libros, lectores y préstamos.
 
 ## Funcionalidades 
 
 - Agregar autores, libros, lectores y préstamos a través de formularios.
 - Visualizar listas de autores, libros y lectores registrados.
 
-## Tecnologias utilizadas
+## Tecnologías utilizadas
 - Python3
 - Django 5.2.3
 - HTML (renderizado con templates)
@@ -14,7 +14,7 @@ Este es un proycto de práctica realizado con Django como parte del curso de Pyt
 
 ## Instalación y ejecución del proyecto
  1. **Cloná el repositorio**
- '''bash 
+ ```bash
  git clone https://github.com/Lucrecia19/biblioteca_virtual.git
  cd biblioteca_virtual
 
@@ -31,7 +31,6 @@ Este es un proycto de práctica realizado con Django como parte del curso de Pyt
 
 5. Accedé desde el navegador a:
 http://127.0.0.1:8000/
-
 
 
 
